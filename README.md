@@ -34,3 +34,5 @@ POLYGON 5 15 400 120 490 160 560 120 700 100 520 #150C73 100 #FAD613 100
   A CIRCLE is described by the coordinates of its centre, the length of its radius, colour of its outline, alpha value of this colour, colour of its inside, and its respective alpha.
   A LINE has 2 coordinates, a SQUARE has the coords of its top-left corner and the length of the side, a TRIANGLE has the coordinates of its 3 vertexes, and a polygon has the coords all of its vertexes.
   The program "draws" the figures consecutively, with the latter ones being the ones on top if some of them intersect.
+  
+  PS: There are 3 images provided here, but I no longer have the .txt input files for these images.
