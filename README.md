@@ -2,7 +2,7 @@
 
 This program receives input in a .txt file as following:
 
-23
+23                                                                                                                                     
 CANVAS 602 713 #B45DE4 100
 CIRCLE 276 255 246 #C3B0B2 100 #5CB282 100
 CIRCLE 134 17 68 #CDF4A0 100 #F6534D 100
